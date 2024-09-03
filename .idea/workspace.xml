@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="da8962ff-0cb3-4b48-a780-5af632d2f005" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/findMinimumValueInArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fibonacciNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/findMaximumValueInArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,13 +40,30 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.fibonacciNumbers.executor": "Run",
+    "Application.findMaximumValueInArray.executor": "Run",
+    "Application.findMinimumValueInArray.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.fibonacciNumbers">
+    <configuration name="fibonacciNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fibonacciNumbers" />
+      <module name="DSA with java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="findMaximumValueInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="findMaximumValueInArray" />
+      <module name="DSA with java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="findMinimumValueInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="findMinimumValueInArray" />
       <module name="DSA with java" />
@@ -55,7 +73,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.fibonacciNumbers" />
         <item itemvalue="Application.findMinimumValueInArray" />
+        <item itemvalue="Application.findMaximumValueInArray" />
       </list>
     </recent_temporary>
   </component>
