@@ -1,5 +1,7 @@
 public class fibonacciNumbers {
     public static void main(String[] args) {
+
+        // using loop for fibonacci number 
         int a = 0;
         int b = 1;
 

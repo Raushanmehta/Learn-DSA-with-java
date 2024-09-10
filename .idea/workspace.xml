@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="da8962ff-0cb3-4b48-a780-5af632d2f005" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/fibonacciNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/findMaximumValueInArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PrimeNumberLowToHigh.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/primeNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fibonacciNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/fibonacciNumbers.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,9 +29,9 @@
   <component name="MacroExpansionManager">
     <option name="directoryName" value="1s81x44u" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2lXuAuGjMdKtVLEYDfIjFjh4xkb" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -40,25 +42,36 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Main.executor": "Run",
+    "Application.PrimeNumberLowToHigh.executor": "Run",
     "Application.fibonacciNumbers.executor": "Run",
     "Application.findMaximumValueInArray.executor": "Run",
     "Application.findMinimumValueInArray.executor": "Run",
+    "Application.primeNumber.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true"
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "E:/CODDING/LEARN DSA WITH JAVA/DSA with java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.fibonacciNumbers">
-    <configuration name="fibonacciNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="fibonacciNumbers" />
+  <component name="RunManager" selected="Application.PrimeNumberLowToHigh">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="DSA with java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="findMaximumValueInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="findMaximumValueInArray" />
+    <configuration name="PrimeNumberLowToHigh" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PrimeNumberLowToHigh" />
+      <module name="DSA with java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="fibonacciNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="fibonacciNumbers" />
       <module name="DSA with java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -71,11 +84,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="primeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="primeNumber" />
+      <module name="DSA with java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PrimeNumberLowToHigh" />
+        <item itemvalue="Application.primeNumber" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.fibonacciNumbers" />
         <item itemvalue="Application.findMinimumValueInArray" />
-        <item itemvalue="Application.findMaximumValueInArray" />
       </list>
     </recent_temporary>
   </component>
