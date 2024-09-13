@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="da8962ff-0cb3-4b48-a780-5af632d2f005" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/findTheLengthOfNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/rowToColmNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/rowToColmRevNumber.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,6 +47,7 @@
     "Application.findTheLengthOfArray.executor": "Run",
     "Application.primeNumber.executor": "Run",
     "Application.rowToColmNumber.executor": "Run",
+    "Application.rowToColmRevNumber.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "ignore.virus.scanning.warn.message": "true",
@@ -55,7 +55,7 @@
     "last_opened_file_path": "E:/CODDING/LEARN JAVA/Learn-DSA-with-java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.rowToColmNumber">
+  <component name="RunManager" selected="Application.rowToColmRevNumber">
     <configuration name="PrimeNumberLowToHigh" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="PrimeNumberLowToHigh" />
       <module name="DSA with java" />
@@ -77,13 +77,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="primeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="primeNumber" />
-      <module name="DSA with java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="rowToColmNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="rowToColmNumber" />
       <module name="DSA with java" />
@@ -91,13 +84,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="rowToColmRevNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="rowToColmRevNumber" />
+      <module name="DSA with java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.rowToColmRevNumber" />
         <item itemvalue="Application.rowToColmNumber" />
         <item itemvalue="Application.findTheLengthOfArray" />
         <item itemvalue="Application.fibonacciNumbers" />
         <item itemvalue="Application.PrimeNumberLowToHigh" />
-        <item itemvalue="Application.primeNumber" />
       </list>
     </recent_temporary>
   </component>
