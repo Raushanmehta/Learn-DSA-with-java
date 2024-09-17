@@ -12,7 +12,7 @@ public class rotationOfNumber {
              temp = temp /10;
              nod++;
         }
-        k = k % nod;
+        k = k % nod; //big number
         if (k<0){
             k= k+nod;
         }

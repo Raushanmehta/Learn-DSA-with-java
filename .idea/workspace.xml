@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="da8962ff-0cb3-4b48-a780-5af632d2f005" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/inverseOfNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/rotationOfNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gcdOrLcm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/primeFactor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/rotationOfNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/rotationOfNumber.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,8 +47,11 @@
     "Application.findMaximumValueInArray.executor": "Run",
     "Application.findMinimumValueInArray.executor": "Run",
     "Application.findTheLengthOfArray.executor": "Run",
+    "Application.gcdOrLcm.executor": "Run",
     "Application.inverseOfNumber.executor": "Run",
+    "Application.primeFactor.executor": "Run",
     "Application.primeNumber.executor": "Run",
+    "Application.rotationOfNumber.executor": "Run",
     "Application.rowToColmNumber.executor": "Run",
     "Application.rowToColmRevNumber.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
@@ -57,9 +61,9 @@
     "last_opened_file_path": "E:/CODDING/LEARN JAVA/Learn-DSA-with-java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.rotationOfNumber">
-    <configuration name="findTheLengthOfArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="findTheLengthOfArray" />
+  <component name="RunManager" selected="Application.primeFactor">
+    <configuration name="gcdOrLcm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gcdOrLcm" />
       <module name="DSA with java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -72,15 +76,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="rotationOfNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="rotationOfNumber" />
+    <configuration name="primeFactor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="primeFactor" />
       <module name="DSA with java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="rowToColmNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="rowToColmNumber" />
+    <configuration name="rotationOfNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="rotationOfNumber" />
       <module name="DSA with java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -95,11 +99,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.primeFactor" />
+        <item itemvalue="Application.gcdOrLcm" />
         <item itemvalue="Application.rotationOfNumber" />
         <item itemvalue="Application.inverseOfNumber" />
         <item itemvalue="Application.rowToColmRevNumber" />
-        <item itemvalue="Application.rowToColmNumber" />
-        <item itemvalue="Application.findTheLengthOfArray" />
       </list>
     </recent_temporary>
   </component>
